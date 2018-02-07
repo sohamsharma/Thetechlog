@@ -1,1 +1,3 @@
-# Thetechlog
+# The Tech Log India
+
+Worked as a Blogger in The Tech Log focusing on tech news from around the world. My focus was to help the design of the blog evolve to a more professional and attractive shape. I also performed extensive research on Wordpress,  Search Engine Optimisation and Content Management. I published over 100+ articles on the website covering subjects such as mobiles, gadgets and laptops. I was also involved in establishing the web services between the front end application and the back end host systems. Successfully provided maintenance and production support to the live system in production. 
