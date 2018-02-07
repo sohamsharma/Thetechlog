@@ -1,0 +1,8 @@
+[31-Jan-2016 20:03:02 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[01-Feb-2016 01:59:57 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 10:41:44 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[24-Feb-2016 17:45:29 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[24-Feb-2016 17:45:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[13-Mar-2016 16:17:34 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[13-Mar-2016 16:17:52 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
+[30-Apr-2016 22:11:13 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/thetesql/public_html/wp-content/plugins/hello.php on line 60
